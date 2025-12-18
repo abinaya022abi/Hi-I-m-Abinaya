@@ -19,3 +19,30 @@ CGPA:8.2/10
 Duration:2021 – 2025
 
 
+
+## Technical Skills
+
+### Programming Languages
+- JavaScript, TypeScript, HTML, CSS
+
+### Frameworks & Libraries
+- Angular, Node.js
+
+### Tools & Platforms
+- Git, GitHub, VS Code, Postman, Matlab,JupyterNotebooks
+
+### Other Skills
+- REST API development, Responsive Web Design, Debugging & Testing
+
+
+
+## Non-Technical Skills
+
+- **Communication:** Clear and effective verbal and written communication  
+- **Teamwork:** Collaborates well in group projects and cross-functional teams  
+- **Problem-Solving:** Analytical thinking to find efficient solutions  
+- **Time Management:** Meets deadlines and manages multiple tasks efficiently  
+- **Adaptability:** Quick learner and open to new technologies and challenges  
+- **Creativity:** Innovative approach to design and development challenges
+
+
