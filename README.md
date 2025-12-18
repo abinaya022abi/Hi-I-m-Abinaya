@@ -8,3 +8,14 @@ I'm a software developer with a passion for creating efficient and scalable web 
 - 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/abinaya003) | [Email](mailto:abinayaarun85@gmail.com)  
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and learning from the community!
+
+
+
+## Education
+
+🎓 **Bachelor of Engineering (B.E.) in Electronic and communication **  
+V.R.S College of Engineerng and Technology ,Villupuram .
+CGPA:8.2/10
+Duration:2021 – 2025
+
+
